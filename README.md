@@ -9,6 +9,9 @@ Git Hub của mình làm có một số  file code có thể không được t�
 # ⚡ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-18Vietnames&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-18Vietnames&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 |:------------:|:-------------:|
+# Algorithm
+## SORT
+## SEARCH
 
 # Machine Learning Basic
 ### Regression Algorithms
