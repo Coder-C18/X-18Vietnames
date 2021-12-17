@@ -11,6 +11,10 @@ Git Hub của mình làm có một số  file code có thể không được t�
 |:------------:|:-------------:|
 # Algorithm
 ## SORT
+``` Python
+users = pd.read_csv('user.csv', sep='|')
+chipo = pd.read_csv(url, sep = "\t")
+```
 ## SEARCH
 
 # Machine Learning Basic
