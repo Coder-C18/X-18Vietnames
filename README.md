@@ -1,6 +1,6 @@
 # PERSONAL IMFORMATION
 Hí😉! I'm FamCao -aka X-18 VietNames  
-![căng quá](https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif)
+![căng quá](https://i.pinimg.com/originals/ce/eb/62/ceeb62c0b30720b233b60d6d5a773c47.gif)
 
 # ⚡ GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-18Vietnames&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-18Vietnames&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
