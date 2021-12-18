@@ -19,32 +19,6 @@ chipo = pd.read_csv(url, sep = "\t")
 
 # Machine Learning Basic
 ### Regression Algorithms
-1. Linear Regression
-2. Logistic Regression
-### Classification Algorithms
-1. Support Vector Machine (SVM)
 
-### Instance-based Algorithms
-1. k-Nearest Neighbor (kNN)
-### Bayesian Algorithms
-1. Naive Bayes
-2. Gaussian Naive Bayes
-
-### Clustering Algorithms
-1. k-Means clustering
-2. k-Medians
-
-### Artificial Neural Network Algorithms
-1. Perceptron
-2. Softmax Regression
-3. Multi-layer Perceptron
-4. Back-Propagation
-
-### Dimensionality Reduction Algorithms
-Principal Component Analysis (PCA)
-### Ensemble Algorithms
-1. Boosting
-2. AdaBoost
-3. Random Forest
 # Personal Project
 [Emotion_recognition](https://github.com/X-18Vietnames/Emotion_recognition)
