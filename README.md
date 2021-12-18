@@ -17,8 +17,7 @@ chipo = pd.read_csv(url, sep = "\t")
 ```
 ## SEARCH
 
-# Machine Learning Basic
-### Regression Algorithms
+# Machine Learning Project
 
 # Personal Project
 [Emotion_recognition](https://github.com/X-18Vietnames/Emotion_recognition)
