@@ -16,7 +16,7 @@ Git Hub của mình làm có một số  file code có thể không được t�
 
 # Personal Project
 [Emotion_recognition](https://github.com/X-18Vietnames/Emotion_recognition)
- ''' #python
+```python
  class TrieNode():
     def __init__(self):
         # Initialising one node for trie
@@ -83,4 +83,4 @@ elif comp == 0:
     print("No string found with this prefix\n")
  
 # This code is contributed by amurdia and muhammedrijnas
- '''
+```
